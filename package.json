@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@cloudant/cloudant": "^4.5.1",
+    "@ibm-cloud/cloudant": "^0.9.0",
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.13",
+    "uuid": "^9.0.1"
+  }
+}
